@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\NDACH\IdeaProjects\EPMES22\Exports\EPMES22.jar</jar>
+  <outfile>C:\Users\NDACH\IdeaProjects\EPMES22\Exports\epmes.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://java.com/fr/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\NDACH\IdeaProjects\EPMES22\Exports\LogoEPMESv2last.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.1.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <splash>
+    <file>C:\Users\NDACH\IdeaProjects\EPMES22\Exports\Logo EPMES v2.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>3</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+</launch4jConfig>
